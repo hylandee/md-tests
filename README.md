@@ -11,7 +11,7 @@ Test area for markdown experiments
 ---
 
 # Images
-A relaxing cat should appear below
+A relaxing cat should appear below:
 
 ![cat](https://bit.ly/fcc-relaxing-cat)
 

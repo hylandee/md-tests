@@ -1,4 +1,4 @@
-# md-tests
+# Just an example file
 Test area for markdown experiments
 
 # H1
